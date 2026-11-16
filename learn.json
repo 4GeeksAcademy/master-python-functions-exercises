@@ -16,7 +16,7 @@
   "projectType": "exercise",
   "grading": "isolated",
   "localhostOnly": false,
-  "gitpod": false,
+  "gitpod": true,
   "technologies": [
     "python"
   ],
