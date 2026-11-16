@@ -33,7 +33,7 @@ Este LearnPack forma parte de una serie. Te recomendamos completarlos en orden:
 
 ## Instalación en un clic (recomendado)
 
-Abre en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/master-python-functions-exercises) (recomendado) o [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/master-python-functions-exercises).
+Abre en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/master-python-functions-exercises).
 
 > Cuando VS Code esté abierto, LearnPack debería iniciar automáticamente. Si no ocurre, ejecuta `learnpack start` en la terminal.
 
