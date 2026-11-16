@@ -1,0 +1,35 @@
+{
+  "language": "python3",
+  "slug": "master-python-functions-exercises",
+  "title": {
+    "us": "Master Python: Functions and Numbers",
+    "es": "Master Python: Funciones y números"
+  },
+  "description": {
+    "us": "26 auto-graded Python exercises to practice writing functions that compute with numbers: arithmetic operators, integer division, modulo, the math module, conditionals and simple loops.",
+    "es": "26 ejercicios autocorregidos de Python para practicar funciones que calculan con números: operadores aritméticos, división entera, módulo, el módulo math, condicionales y bucles simples."
+  },
+  "repository": "https://github.com/4GeeksAcademy/master-python-functions-exercises",
+  "preview": "https://raw.githubusercontent.com/4GeeksAcademy/master-python-functions-exercises/main/preview.gif",
+  "difficulty": "EASY",
+  "duration": 6,
+  "projectType": "exercise",
+  "grading": "isolated",
+  "localhostOnly": false,
+  "gitpod": true,
+  "technologies": [
+    "python"
+  ],
+  "bugsLink": "https://github.com/4GeeksAcademy/master-python-functions-exercises/issues/new",
+  "delivery": {
+    "instructions": "",
+    "formats": [
+      "url"
+    ],
+    "regex": ""
+  },
+  "editor": {
+    "agent": "vscode",
+    "version": "5.0"
+  }
+}
